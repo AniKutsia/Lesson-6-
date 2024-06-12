@@ -54,3 +54,7 @@ table {
 *{
     box-sizing: border-box;
 }
+
+.nav-link{
+	text-decoration: none;
+}
